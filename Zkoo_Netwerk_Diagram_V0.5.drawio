@@ -285,7 +285,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQIJ7N-8Z21Tld_H8qOv-12" value="VPN Tunnel" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;fontSize=8;" vertex="1" connectable="0" parent="sQIJ7N-8Z21Tld_H8qOv-11">
+        <mxCell id="sQIJ7N-8Z21Tld_H8qOv-12" value="VPN Tunnel" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;fontSize=8;labelBorderColor=#99CCFF;whiteSpace=wrap;" vertex="1" connectable="0" parent="sQIJ7N-8Z21Tld_H8qOv-11">
           <mxGeometry x="-0.0144" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
