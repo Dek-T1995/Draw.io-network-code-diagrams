@@ -224,13 +224,15 @@
         <mxCell id="sQIJ7N-8Z21Tld_H8qOv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#cce5ff;strokeColor=light-dark(#5294cf, #babdc0);" parent="1" source="9RAzOZE7e6CDI6lu2aur-34" target="sQIJ7N-8Z21Tld_H8qOv-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="42" />
+              <mxPoint x="180" y="130" />
+              <mxPoint x="270" y="130" />
+              <mxPoint x="270" y="423" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sQIJ7N-8Z21Tld_H8qOv-12" value="VPN Tunnel" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;fontSize=8;labelBorderColor=#99CCFF;whiteSpace=wrap;" parent="sQIJ7N-8Z21Tld_H8qOv-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0144" y="-1" relative="1" as="geometry">
-            <mxPoint x="-4" y="-96" as="offset" />
+            <mxPoint x="-4" y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ezc3YGfQ1S8o-atjYG3j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;dashed=1;dashPattern=1 4;strokeColor=#36393d;labelBackgroundColor=none;" parent="1" vertex="1">
