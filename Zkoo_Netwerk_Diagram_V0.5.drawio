@@ -218,7 +218,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQIJ7N-8Z21Tld_H8qOv-9" value="vm-vpn-nl-005&lt;br&gt;172.20.3.4" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=right;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.veeam2.open_vpn;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="sQIJ7N-8Z21Tld_H8qOv-9" value="vm-gateway-nl-005&lt;br&gt;172.20.3.4" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=right;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.veeam2.open_vpn;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="336.75000000000006" y="405.36" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQIJ7N-8Z21Tld_H8qOv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#cce5ff;strokeColor=light-dark(#5294cf, #babdc0);" parent="1" source="9RAzOZE7e6CDI6lu2aur-34" target="sQIJ7N-8Z21Tld_H8qOv-9" edge="1">
