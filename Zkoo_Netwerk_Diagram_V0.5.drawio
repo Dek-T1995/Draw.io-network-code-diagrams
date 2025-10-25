@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Pagina-1" id="Vlgs3-vD3yWlQ9Ya2_ih">
     <mxGraphModel dx="1106" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="602.35" y="120" width="26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-37" value="&lt;font&gt;strgprodzkoonl001&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/azure2/storage/Storage_Accounts.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="133.25" y="580.3799999999999" width="26.75" height="21.4" as="geometry" />
+          <mxGeometry x="142.5" y="580.3799999999999" width="26.75" height="21.4" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-38" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;dashed=1;dashPattern=1 4;strokeColor=#36393d;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="279.36" y="367.03" width="161.07" height="111.88" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="249" y="671.09" width="28" height="16.77" as="geometry" />
         </mxCell>
         <mxCell id="JLNbLjvHFztpqkfQ3VYR-6" value="X:\Classified_docs" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/azure2/storage/Azure_Fileshare.svg;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="122" y="629.3300000000002" width="38" height="38" as="geometry" />
+          <mxGeometry x="131.25" y="629.3300000000002" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JLNbLjvHFztpqkfQ3VYR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#5294CF,#5294CF);curved=0;labelBackgroundColor=none;flowAnimation=0;startArrow=classic;startFill=1;" parent="1" source="9RAzOZE7e6CDI6lu2aur-2" target="sQIJ7N-8Z21Tld_H8qOv-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -272,7 +272,7 @@
         <mxCell id="ezc3YGfQ1S8o-atjYG3j-9" value="VPN VM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.open_vpn;" parent="1" vertex="1">
           <mxGeometry x="528.0400000000001" y="983.62" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dZtxWyeainAAR0s46BjY-1" value="privatelink.file.core.windows.net" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="dZtxWyeainAAR0s46BjY-1" value="privatelink.file.core.windows.net" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/mscae/DNS_Private_Zones.svg;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="191.31" y="790" width="36.52" height="36.52" as="geometry" />
         </mxCell>
       </root>
