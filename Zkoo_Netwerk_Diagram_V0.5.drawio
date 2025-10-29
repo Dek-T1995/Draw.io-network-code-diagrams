@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Pagina-1" id="Vlgs3-vD3yWlQ9Ya2_ih">
-    <mxGraphModel dx="1106" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,8 @@
             <mxPoint x="382.9840710166911" y="57.04647596965154" as="sourcePoint" />
             <mxPoint x="357.18" y="448.0472413793103" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="102" />
+              <mxPoint x="404" y="120" />
+              <mxPoint x="380" y="120" />
               <mxPoint x="380" y="423" />
             </Array>
           </mxGeometry>
@@ -266,10 +267,10 @@
         <mxCell id="dZtxWyeainAAR0s46BjY-1" value="privatelink.file.core.windows.net" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/mscae/DNS_Private_Zones.svg;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="191.31" y="790" width="36.52" height="36.52" as="geometry" />
         </mxCell>
-        <mxCell id="6ojZ9aqYGHcsC34dDJaR-2" value="vault-zkoo-storage-nl-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/mscae/Backup.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="6ojZ9aqYGHcsC34dDJaR-2" value="vault-zkoo-storage-nl-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=8;image=img/lib/mscae/Backup.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="127.32000000000001" y="463.47" width="35.25" height="29.61" as="geometry" />
         </mxCell>
-        <mxCell id="6ojZ9aqYGHcsC34dDJaR-3" value="Recovery Service Vault" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/mscae/Backup.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6ojZ9aqYGHcsC34dDJaR-3" value="Recovery Service Vault" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/mscae/Backup.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="675.96" y="1065.55" width="34.49" height="28.97" as="geometry" />
         </mxCell>
       </root>
