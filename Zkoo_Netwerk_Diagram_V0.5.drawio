@@ -125,10 +125,10 @@
           <mxGeometry x="516.52" y="994.28" width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-74" value="NSG" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="658.25" y="983.6200000000001" width="27.71" height="33.64" as="geometry" />
+          <mxGeometry x="648.35" y="979.9600000000002" width="27.71" height="33.64" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-75" value="ASG" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Application_Security_Groups.svg;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="983.6400000000001" width="27.69" height="33.62" as="geometry" />
+          <mxGeometry x="710.45" y="979.9800000000001" width="27.69" height="33.62" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-76" value="Virtual Machine&amp;nbsp;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="1063.32" width="32.35" height="30" as="geometry" />
