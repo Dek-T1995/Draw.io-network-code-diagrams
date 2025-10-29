@@ -17,10 +17,10 @@
           <mxGeometry x="190" y="280" width="504" height="504" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;perimeterSpacing=1;shadow=0;fillColor=#cce5ff;dashed=1;dashPattern=1 4;strokeColor=#36393d;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="502.21" y="346.25" width="173.75" height="173.75" as="geometry" />
+          <mxGeometry x="502.21" y="346.25" width="183.75" height="183.75" as="geometry" />
         </mxCell>
-        <mxCell id="9RAzOZE7e6CDI6lu2aur-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="516.52" y="387.97999999999996" width="154.37" height="90.29" as="geometry" />
+        <mxCell id="9RAzOZE7e6CDI6lu2aur-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="516.52" y="387.98" width="154.37" height="102.02" as="geometry" />
         </mxCell>
         <mxCell id="9RAzOZE7e6CDI6lu2aur-2" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;labelBackgroundColor=none;imageBorder=none;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="385" y="60" width="70" height="44.1" as="geometry" />
