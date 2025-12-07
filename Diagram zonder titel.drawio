@@ -97,13 +97,16 @@
         <mxCell id="UjSrbYzYGMaN-7F6z2uv-2278" value="" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="484" y="1009" width="83" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="UjSrbYzYGMaN-7F6z2uv-2286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="UjSrbYzYGMaN-7F6z2uv-2279">
+        <mxCell id="UjSrbYzYGMaN-7F6z2uv-2308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjSrbYzYGMaN-7F6z2uv-2279">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="650" as="targetPoint" />
+            <mxPoint x="700" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjSrbYzYGMaN-7F6z2uv-2279" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="597" width="50" height="70" as="geometry" />
+          <mxGeometry x="1020" y="550" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UjSrbYzYGMaN-7F6z2uv-2282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UjSrbYzYGMaN-7F6z2uv-2264" target="UjSrbYzYGMaN-7F6z2uv-2269">
           <mxGeometry relative="1" as="geometry" />
