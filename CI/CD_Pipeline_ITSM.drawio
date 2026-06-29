@@ -105,10 +105,8 @@
         <mxCell id="yu_XQUHAQQwDre8_7aJG-24" edge="1" parent="1" source="eRVFU9hIBbh1x9-h-B_j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yu_XQUHAQQwDre8_7aJG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yu_XQUHAQQwDre8_7aJG-25" connectable="0" parent="yu_XQUHAQQwDre8_7aJG-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
-          <mxGeometry relative="1" x="-0.25" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="yu_XQUHAQQwDre8_7aJG-26" edge="1" parent="1" source="eRVFU9hIBbh1x9-h-B_j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yu_XQUHAQQwDre8_7aJG-23" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Monitoring" mermaidId="n:F" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Integration Tests" id="eRVFU9hIBbh1x9-h-B_j-25">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
