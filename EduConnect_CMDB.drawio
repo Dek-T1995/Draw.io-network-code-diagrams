@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="CXejNOelu1BGChYvx4y1-5" connectable="0" parent="CXejNOelu1BGChYvx4y1-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Depends on" vertex="1">
           <mxGeometry relative="1" y="-3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="90CfwfbygHwsZxjF5D7Q-1" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Webserver" vertex="1">
@@ -119,7 +119,7 @@
         <mxCell id="CXejNOelu1BGChYvx4y1-21" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="ProductOwner" vertex="1">
           <mxGeometry height="50" width="50" x="700" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="CXejNOelu1BGChYvx4y1-25" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;labelPosition=center;" value="Software developers" vertex="1">
+        <mxCell id="CXejNOelu1BGChYvx4y1-25" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;labelPosition=center;" value="Developers" vertex="1">
           <mxGeometry height="50" width="50" x="700" y="20" as="geometry" />
         </mxCell>
         <mxCell id="CXejNOelu1BGChYvx4y1-28" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;labelPosition=center;" value="" vertex="1">
